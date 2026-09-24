@@ -40,18 +40,3 @@ make
 ```
 ---
 
-
-### 🙏 Support the Project
-
-If you love this project, consider supporting its development ❤️
-
-> **UPI:** `gamobhai2@ybl`  
-> **Binance ID:** `783008968`
-
-| Coin | Address |
-|------|---------|
-| **USDT (TRC-20)** | `TXKPBgR9d5xq5KpAyd2maPVQuEEDZ9DgiQ` |
-| **BTC**           | `1JeBUw4bjL9tuKrHwKKk4dx3mPy1jxys8j` |
-| **LTC**           | `LPUR2CE5SfArfYRJWkdtqhGz3t17Rijz2d` |
-
----
